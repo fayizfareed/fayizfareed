@@ -166,7 +166,6 @@ Automation
 ```
 ---
 
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fayizfareed&show_icons=true&theme=transparent&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fayizfareed&layout=compact&theme=transparent&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=fayizfareed)
